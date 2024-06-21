@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\TelegramUser\TelegramUser;
+use App\Models\TelegramUser;
 use App\Services\TelegramUserService;
 use Illuminate\Http\Request;
 

@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use App\Models\TelegramUser\TelegramUser;
+use App\Models\TelegramUser;
 
 class TelegramUserService
 {
